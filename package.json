@@ -1,6 +1,6 @@
 {
   "name": "fastboot-gitlab-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A FastBoot App Server notifier for GitLab build artifacts",
   "main": "index.js",
   "scripts": {
